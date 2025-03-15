@@ -38,10 +38,10 @@ where:
 The program outputs a 4x4 matrix representing the final value function for each state in the grid. Higher values indicate states that are closer to the goal state.
 Final Value Function:
 
-[[-0.4921875 -0.484375  -0.46875   -0.4375   ]
- [-0.484375  -0.46875   -0.4375    -0.375    ]
- [-0.46875   -0.4375    -0.375     -0.25     ]
- [-0.4375    -0.375     -0.25       0.       ]]
+- [[-0.4921875 -0.484375  -0.46875   -0.4375   ]
+- [-0.484375  -0.46875   -0.4375    -0.375    ]
+- [-0.46875   -0.4375    -0.375     -0.25     ]
+- [-0.4375    -0.375     -0.25       0.       ]]
 
 
 
